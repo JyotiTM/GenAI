@@ -1,2 +1,3 @@
 main_1.py - simple langchain usage to call a LLM
 main_2_simple_chatbot - langgraph usage to call a LLM and display output with direct invoke
+main_3_streaming_chatbot - langgraph chatbot with streaming output
